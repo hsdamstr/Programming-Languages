@@ -1,0 +1,12 @@
+PROGRAM exprNOT;
+
+VAR i,j : BOOLEAN;
+
+BEGIN
+	i := TRUE; j := FALSE;
+
+	WRITELN(i);
+	WRITELN(NOT i);
+	WRITELN(j);
+    WRITELN(NOT j)
+END.

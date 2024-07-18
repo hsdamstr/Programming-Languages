@@ -1,0 +1,6 @@
+PROGRAM constAdd;
+
+BEGIN
+  WRITE('1+2=');
+  WRITELN(1+2:10)
+END.

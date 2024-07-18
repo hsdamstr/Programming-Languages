@@ -1,0 +1,2 @@
+libparser-g.a(PascalParser.o): PascalParser.c ../util/general.h \
+ ../util/symtab.h PascalParser.h

@@ -1,0 +1,2 @@
+libparser-g.a(PJParser.o): PJParser.c ../util/general.h ../util/symtab.h \
+ ../util/string_utils.h PJParser.h
